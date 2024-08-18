@@ -46,7 +46,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ### Clone the repository:
 
-        git clone 
+        git clone git@github.com:Sophiek9h/TheBookish.git
 
 Navigate to the project directory:
 
