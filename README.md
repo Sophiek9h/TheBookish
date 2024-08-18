@@ -36,8 +36,11 @@ TheBookish is an online bookstore built with React.js. It allows users to browse
 ### Frontend:
 
 React.js
+
 Bootstrap
+
 HTML5
+
 CSS3
 
 ## Installation
