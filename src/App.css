@@ -3,10 +3,6 @@
   /* font-size: 15px; */
 }
 
-.main{
-  min-height: 100vh;
-}
-
 .btn-colors {
   background-color: rgb(146, 50, 60);
   color: white;
@@ -202,7 +198,9 @@
   text-align: center;
   font-size: 1.5rem;
   color: #666;
-  margin: 119px;
+  margin: auto;
+  padding-top: 20%;
+  height: 100vh;
 }
 
 .wishlist-grid, .cart-grid {
