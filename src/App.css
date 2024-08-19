@@ -1,5 +1,6 @@
 *{
-  font-family:monospace;
+  font-family: 'Times New Roman', Times, serif;
+  /* font-size: 15px; */
 }
 
 .btn-colors {
@@ -21,8 +22,7 @@
 
 .sections {
   margin: auto;
-  padding: 30px;
-  padding-top: 20px;
+  padding: 10px;
 }
 
 .sectionss {
@@ -292,6 +292,8 @@
   padding: 40px 0;
   text-align: center;
   margin-top: 50px;
+  position: absolute;
+  width: 100%;
 }
 
 .footer-container {
