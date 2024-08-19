@@ -19,7 +19,7 @@ function Footer() {
           <div className="footer-col">
             <h4>Quick Links</h4>
             <ul>
-              <li><NavLink to="/" activeClassName="active">Home</NavLink></li>
+              <li><NavLink exact to="/" activeClassName="active">Home</NavLink></li>
               <li><NavLink to="/shop" activeClassName="active">Shop</NavLink></li>
               <li><NavLink to="/about" activeClassName="active">About Us</NavLink></li>
               <li><NavLink to="/contact" activeClassName="active">Contact</NavLink></li>
@@ -30,10 +30,18 @@ function Footer() {
           <div className="footer-col">
             <h4>Follow Us</h4>
             <div className="social-links">
-              <a href="#"><FaFacebookF /></a>
-              <a href="#"><FaTwitter /></a>
-              <a href="#"><FaInstagram /></a>
-              <a href="#"><FaLinkedin /></a>
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                <FaFacebookF />
+              </a>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                <FaTwitter />
+              </a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <FaInstagram />
+              </a>
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <FaLinkedin />
+              </a>
             </div>
           </div>
           
