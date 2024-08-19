@@ -11,7 +11,7 @@ function Cart({ cart, removeFromCart }) {
   const handleClose = () => setShowModal(false);
 
   return (
-    <div>
+    <div className='main'>
       {cart.length === 0 ? (
         <h2 className="cart-empty">Add a book to your cart</h2>
       ) : (

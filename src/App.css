@@ -3,6 +3,10 @@
   /* font-size: 15px; */
 }
 
+.main{
+  min-height: 100vh;
+}
+
 .btn-colors {
   background-color: rgb(146, 50, 60);
   color: white;

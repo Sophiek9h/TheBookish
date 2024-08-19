@@ -7,7 +7,7 @@ function WishList({ wishlist, addToCart, removeFromWishlist }) {
 
 
   return (
-    <div>
+    <div className='main'>
       {wishlist.length === 0 ? (
         <h2 className="wishlist-empty">Add a book you like to your wishlist</h2>
       ) : (
