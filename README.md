@@ -1,6 +1,8 @@
-# TheBookish
+# TheBookish ![alt text](public/logo192.png)
 
-TheBookish is an online bookstore built with React.js. It allows users to browse, search, categorize books, add them to wishlists or shopping carts, and explore daily deals. The project aims to provide a user-friendly interface for book lovers to discover and purchase books easily.
+TheBookish is an online bookstore built with React.js. It allows users to browse, search, categorize books, add them to wishlists or shopping carts, and explore daily deals.
+
+<video controls src="giphy.mp4" title="Title"></video>
 
 ## Table of Contents
 - Demo
